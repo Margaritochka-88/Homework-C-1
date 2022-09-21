@@ -15,7 +15,9 @@ else if (numberA < numberB)
     Console.WriteLine($" max = {numberB}");
     Console.WriteLine($" min = {numberA}");
 }
-else {
-    Console.WriteLine("Числа равны ");
+
+else 
+{
+    Console.WriteLine("Числа равны "); 
     
 }
